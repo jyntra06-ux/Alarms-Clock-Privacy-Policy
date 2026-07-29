@@ -1,0 +1,401 @@
+# Privacy Policy
+
+**Effective Date:** July 29, 2026
+
+**App Name:** Alarm Clock & Lock – Secure Timer App
+
+Thank you for using **Alarm Clock & Lock – Secure Timer App** ("App", "we", "our", or "us").
+
+Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application.
+
+By installing or using the App, you agree to the practices described in this Privacy Policy.
+
+---
+
+# 1. Information We Collect
+
+Depending on the features you use, we may collect the following information.
+
+## A. Information You Provide
+
+You may voluntarily provide information when you:
+
+* Contact customer support
+* Send feedback
+* Participate in surveys or promotions
+
+This information may include:
+
+* Name (if provided)
+* Email address
+* Feedback or support messages
+
+---
+
+## B. Alarm Data
+
+The App stores alarm-related information locally on your device, including:
+
+* Alarm time
+* Alarm labels
+* Repeat schedules
+* Snooze preferences
+* Alarm sounds
+* Alarm settings
+
+This information is used only to provide alarm functionality.
+
+---
+
+## C. Secure Vault Data
+
+Our Secure Vault feature allows you to protect your personal files.
+
+Depending on your usage, the App may access:
+
+* Photos
+* Videos
+* Audio files
+
+These files are stored locally on your device. We do not upload your personal vault content to our servers.
+
+If encryption is enabled, your vault content is encrypted and cannot be accessed by us.
+
+---
+
+## D. Device Information
+
+We may automatically collect limited device information such as:
+
+* Device model
+* Android version
+* App version
+* Language
+* Time zone
+* Country or region
+* Device identifiers
+* IP address
+* Crash reports
+* Performance data
+
+---
+
+## E. Analytics Information
+
+To improve our services, we may collect anonymous usage information including:
+
+* App launches
+* Feature usage
+* Session duration
+* Navigation events
+* Performance metrics
+* Crash logs
+
+---
+
+## F. Push Notification Token
+
+If notifications are enabled, Firebase Cloud Messaging (FCM) may generate a device token to deliver notifications.
+
+You can disable notifications anytime in your device settings.
+
+---
+
+# 2. Permissions We Use
+
+Our App requests only the permissions necessary to provide its features.
+
+### Exact Alarm Permissions
+
+* SCHEDULE_EXACT_ALARM
+* USE_EXACT_ALARM
+
+Used to trigger alarms accurately even when the device is idle.
+
+---
+
+### RECEIVE_BOOT_COMPLETED
+
+Allows alarms to be restored after device restart.
+
+---
+
+### USE_FULL_SCREEN_INTENT
+
+Displays the full-screen alarm interface while an alarm is ringing.
+
+---
+
+### POST_NOTIFICATIONS
+
+Used to deliver alarm reminders and notifications.
+
+---
+
+### VIBRATE
+
+Allows alarm vibration.
+
+---
+
+### WAKE_LOCK
+
+Keeps the device awake while an alarm is ringing.
+
+---
+
+### MODIFY_AUDIO_SETTINGS
+
+Allows the App to control alarm volume and audio behavior.
+
+---
+
+### DISABLE_KEYGUARD
+
+Allows alarms to appear over the lock screen.
+
+---
+
+### FOREGROUND_SERVICE
+
+Used to ensure reliable alarm execution while the app is running.
+
+---
+
+### FOREGROUND_SERVICE_MEDIA_PLAYBACK
+
+Allows alarm sounds to continue playing correctly.
+
+---
+
+### REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+
+May be requested to improve alarm reliability on devices that aggressively restrict background activities.
+
+---
+
+### CAMERA
+
+Allows users to capture photos for Secure Vault.
+
+Camera access is optional.
+
+---
+
+### READ_MEDIA_IMAGES
+
+Used to import photos into Secure Vault.
+
+---
+
+### READ_MEDIA_VIDEO
+
+Used to import videos into Secure Vault.
+
+---
+
+### READ_MEDIA_AUDIO
+
+Used to import audio files into Secure Vault.
+
+---
+
+### READ_EXTERNAL_STORAGE
+
+Used only on older Android versions to access user-selected media.
+
+---
+
+### WRITE_EXTERNAL_STORAGE
+
+Used only on older Android versions where required by Android.
+
+---
+
+### MANAGE_EXTERNAL_STORAGE
+
+This permission is used solely to allow users to manage, import, organize, and protect their personal files inside the Secure Vault feature. We do not access files unrelated to the functionality selected by the user.
+
+---
+
+# 3. How We Use Your Information
+
+We use collected information to:
+
+* Provide alarm functionality
+* Protect user files
+* Improve app stability
+* Monitor crashes
+* Deliver notifications
+* Improve user experience
+* Display advertisements
+* Detect fraud or abuse
+* Comply with legal obligations
+
+---
+
+# 4. Local Storage
+
+Most of your personal data, including alarm settings and Secure Vault content, is stored locally on your device.
+
+We do not upload your personal vault files unless you explicitly use a future cloud backup feature.
+
+---
+
+# 5. Third-Party Services
+
+Our App may use trusted third-party services, including:
+
+* Google Play Services
+* Firebase Analytics
+* Firebase Cloud Messaging
+* Firebase Realtime Database
+* Google AdMob
+* Google User Messaging Platform (UMP)
+* Facebook SDK
+
+These providers may collect information in accordance with their own privacy policies.
+
+---
+
+# 6. Advertising
+
+We use Google AdMob to display advertisements.
+
+Advertising providers may collect:
+
+* Device identifiers
+* Advertising ID
+* Approximate location
+* Device information
+* Usage information
+
+Personalized advertisements are displayed only where permitted by applicable laws and after obtaining user consent where required.
+
+---
+
+# 7. Analytics
+
+We use Firebase Analytics to understand how users interact with our App.
+
+Analytics data may include:
+
+* Screens viewed
+* Session duration
+* Device information
+* App version
+* Crash reports
+* Feature usage
+
+Analytics data helps improve performance and reliability.
+
+---
+
+# 8. Data Sharing
+
+We do not sell your personal information.
+
+We may share limited information with:
+
+* Analytics providers
+* Advertising providers
+* Cloud service providers
+* Government authorities when legally required
+
+---
+
+# 9. Data Security
+
+We implement commercially reasonable security measures to protect your information.
+
+These measures include:
+
+* Encryption where applicable
+* Secure communication
+* Restricted access
+* Industry-standard security practices
+
+However, no electronic transmission or storage method is completely secure.
+
+---
+
+# 10. Data Retention
+
+We retain information only as long as necessary to:
+
+* Provide services
+* Meet legal obligations
+* Resolve disputes
+* Improve our App
+
+Local vault data remains on your device until deleted by you.
+
+---
+
+# 11. Children's Privacy
+
+Our App is not intended for children under the age of 13.
+
+We do not knowingly collect personal information from children.
+
+If we discover that a child has provided personal information, we will promptly delete such information where applicable.
+
+---
+
+# 12. Your Privacy Rights
+
+Depending on your country or region, you may have the right to:
+
+* Access your information
+* Correct inaccurate information
+* Delete your personal data
+* Restrict processing
+* Object to processing
+* Withdraw consent
+* Request data portability
+
+You may contact us to exercise these rights.
+
+---
+
+# 13. Data Deletion
+
+You may request deletion of any information we store by contacting us.
+
+Please include sufficient information to identify your request.
+
+If applicable, we will delete your information within a reasonable period unless we are legally required to retain it.
+
+---
+
+# 14. International Data Transfers
+
+Some third-party providers may process data on servers located outside your country.
+
+These providers implement safeguards designed to protect your information in accordance with applicable privacy laws.
+
+---
+
+# 15. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Any updates will be posted on this page with a revised Effective Date.
+
+Continued use of the App after changes become effective constitutes acceptance of the updated Privacy Policy.
+
+---
+
+# 16. Contact Us
+
+If you have any questions, requests, or concerns regarding this Privacy Policy, please contact us.
+
+**Developer:** Alarm Clock & Lock – Secure Timer App
+
+**Email:** [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+# 17. Consent
+
+By installing or using **Alarm Clock & Lock – Secure Timer App**, you acknowledge that you have read and understood this Privacy Policy and agree to the collection and use of information as described herein.
